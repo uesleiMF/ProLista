@@ -1,5 +1,5 @@
 {
-  "name": "prolista",
+  "name": "frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "dompurify": "^2.4.0",
-    "eslint-plugin-react-hooks": "^5.0.0-next-ee8509801-20230117",
     "node-sass": "^7.0.3",
     "react": "^18.2.0",
     "react-confirm-alert": "^3.0.6",
